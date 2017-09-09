@@ -26,7 +26,10 @@ Instructions for Windows:
 4. Double-click PlayCATS.bat and enjoy!
 
 # OpenBoxes
-OpenBoxes will start unlocking boxes, watch ads to cut the time, and open boxes for you. Again, use this at your own risk because if you give it the wrong inputs, it might spend gems on accident!
+OpenBoxes will start unlocking boxes, watch ads to cut the time, and open boxes for you. 
+
+DISCLAIMER:
+Again, use this at your own risk because if you give it the wrong inputs, it might spend gems on accident! Also, make sure you keep an eye on it because the game only allows you to watch a certain amount of ads. When the script arrives to the end, it may accidentally spend your gems!
 
 Instructions for Mac:
 1. Download OpenBoxes.sh to your computer by right-clicking the file and clicking Save Link As... or something like that.
