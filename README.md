@@ -13,5 +13,11 @@ Instructions for Mac:
 5. Type "sh playCATS.sh" in Terminal and hit return.
 6. Let it play! The program runs infinitely so press control+C to stop the program from continuing.
 
+Instructions for Windows:
+1. Download zip file here: http://yoalizer.com/2TWZ
+2. Unzip.
+3. Plug Android device to PC.
+4. Double-click PlayCATS.bat and enjoy!
+
 Notes:
 Works on Android devices with a resolution of 1920x1080. Will work on future releases to dynamically support different resolutions.
